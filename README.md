@@ -1,14 +1,9 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-<p><a href="https://www.facebook.com/groups/fullstackwebdevelopment/" rel="nofollow">Facebook Group |</a>
-<a href="https://plus.google.com/u/0/communities/113464467764075060760" rel="nofollow">Google Plus |</a>
-<a href="https://www.youtube.com/fullstackweb" rel="nofollow">Youtube  |</a>
-<a href="http://www.sumon-it.com" rel="nofollow">Web Site |</a>
-<a href="https://www.facebook.com/csesumonpro" rel="nofollow">Like Us</a></p>
-
 # Laravel Custom Rules,Permission,Middleware,Route Security
 
-![Laravel Custom Rules Permisssion](https://user-images.githubusercontent.com/29582239/79392045-7bf89f00-7f94-11ea-9aa9-319cc7c6c8f2.jpg)
+![laravel roles and permission](https://user-images.githubusercontent.com/29851103/113640937-60ebd700-969e-11eb-9f2e-2b8de8aa10a6.png)
+
    
 ##Here are the things you will learn in this series:
 * How use create custom user rules
